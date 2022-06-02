@@ -11,7 +11,11 @@
 ##### - In the contact section, I have created a form for people to send me a message and reach out to me, also I have used font awesome icons to display my social profile (for eg linkedn) so that people can reach out to me there as well
 ##### Below you can find screen shot my home page, about page,skills page, project page and contact page
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](images/Home.jpeg)
+![This is an image](images/About.jpeg)
+![This is an image](images/Skills.jpeg)
+![This is an image](images/Projects.jpeg)
+![This is an image](images/Contact.jpeg)
 
 
 
