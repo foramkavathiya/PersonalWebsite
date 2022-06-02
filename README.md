@@ -5,7 +5,7 @@
 ##### - I have created a personal portfolio website using HTML, CSS and Javascript. There are five sections which are Home, About, Skills, Projects and Contact which are visible on the sidebar and I have deployed my website on heroku
 
 ##### - In Home section, my name is displayed with my designation.
-##### - In About sextion, I have written about myself and my qualifications.
+##### - In About section, I have written about myself and my qualifications.
 ##### - In the skills sections, I have displayed about how much I am familiar with programming languages.
 ##### - In the project section, I have diplayed few of my projects that I've worked on.
 ##### - In the contact section, I have created a form for people to send me a message and reach out to me, also I have used font awesome icons to display my social profile (for eg linkedn) so that people can reach out to me there as well
@@ -34,6 +34,9 @@
 
 ![This is an image](images/Contact.jpeg)
 
+##### 6)  I have added animated component using jQuery on my project page where by hovering the mouse on any of the project, it gets highlighted. Screen shot of the same can be found below for reference purposes. the picture will have no effect but will give you an idea where exactly it is implemented.
+
+![This is an image](images/Projects.jpeg)
 
 
 
