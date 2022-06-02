@@ -95,7 +95,7 @@ section .title::before{
     transition: all 0.3s ease;
 }
 .navbar.sticky .logo a span{
-    color: #fff;
+    color: rgb(60, 40, 235);
 }
 .navbar .menu li{
     list-style: none;
@@ -103,22 +103,22 @@ section .title::before{
 }
 .navbar .menu li a{
     display: block;
-    color: #fff;
+    color: rgb(60, 40, 235);
     font-size: 18px;
     font-weight: 500;
     margin-left: 25px;
     transition: color 0.3s ease;
 }
 .navbar .menu li a:hover{
-    color: rgb(60, 40, 235);
+    color: rgb(125, 228, 142);
 }
 .navbar.sticky .menu li a:hover{
-    color: #fff;
+    color: rgb(60, 40, 235);
 }
 
 /* menu btn styling */
 .menu-btn{
-    color: #fff;
+    color: rgb(60, 40, 235);
     font-size: 23px;
     cursor: pointer;
     display: none;
@@ -132,7 +132,7 @@ section .title::before{
     bottom: 10px;
     text-align: center;
     line-height: 45px;
-    color: #fff;
+    color: rgb(60, 40, 235);
     z-index: 9999;
     font-size: 30px;
     border-radius: 6px;
@@ -650,6 +650,5 @@ footer a:hover{
         line-height: 38px;
     }
 }
-
 
 
